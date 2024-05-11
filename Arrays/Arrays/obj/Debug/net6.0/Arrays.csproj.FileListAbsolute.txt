@@ -1,0 +1,14 @@
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll
