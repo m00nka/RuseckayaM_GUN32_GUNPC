@@ -12,3 +12,4 @@ C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Classes\Classes\obj\Debug\net6.0
 C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Classes\Classes\obj\Debug\net6.0\Classes.pdb
 C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Classes\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
 C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Classes\Classes\obj\Debug\net6.0\ref\Classes.dll
+C:\Users\lunar\Documents\RuseckayaM_GUN29_GUNPC\Classes\Classes\obj\Debug\net6.0\Classes.sourcelink.json
